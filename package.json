@@ -57,6 +57,7 @@
     "swagger-ui-express": "^4.3.0",
     "systeminformation": "^5.11.14",
     "tar": "^6.1.11",
+    "vue-loader": "^17.0.1",
     "web-push": "^3.4.5"
   },
   "devDependencies": {
